@@ -1,0 +1,61 @@
+ACE ’21
+
+Resources:
+2- About the ACE certification
+   •	Associate Cloud Engineer certification main information page
+* Associate Cloud Engineer certification exam guide
+* Associate Cloud Engineer practice exam
+* Google Cloud main documentation page
+
+3- Setting up a cloud solution environment
+* Google Cloud Platform Overview:  https://cloud.google.com/docs/overview/
+* Google Cloud Identity:  https://cloud.google.com/identity/
+* Google Cloud Pricing Calculator:  https://cloud.google.com/products/calculator/
+* Google Cloud Billing documentation: https://cloud.google.com/billing/docs/
+* Stackdriver Fundamentals Quest:  https://www.qwiklabs.com/quests/35
+* Cloud SDK installation and quick start   https://cloud.google.com/sdk/#Quick_Start
+* gcloud tool guide   https://cloud.google.com/sdk/gcloud/
+
+4- Planning and configuring a cloud solution
+* Google Cloud Platform Overview:  https://cloud.google.com/docs/overview/
+* Google Cloud Identity:  https://cloud.google.com/identity/
+* Google Cloud Pricing Calculator:  https://cloud.google.com/products/calculator/
+* Google Cloud Billing documentation: https://cloud.google.com/billing/docs/
+* Stackdriver Fundamentals Quest:  https://www.qwiklabs.com/quests/35
+* Cloud SDK installation and quick start   https://cloud.google.com/sdk/#Quick_Start
+* gcloud tool guide   https://cloud.google.com/sdk/gcloud/
+
+5-Deploying and implementing a cloud solution
+* Compute Engine:  https://cloud.google.com/compute/docs/
+* Cloud Source Repositories   https://cloud.google.com/source-repositories/docs/
+* Deployment Manager   https://cloud.google.com/deployment-manager/docs/
+* Instance Groups:  https://cloud.google.com/compute/docs/instance-groups/
+* Autoscaling:  https://cloud.google.com/compute/docs/autoscaler/
+* Instance Templates:  https://cloud.google.com/compute/docs/instance-templates/
+* Create VMs from instance template:  https://cloud.google.com/compute/docs/instances/create-vm-from-instance-template
+* Creating groups of managed instances with templates:  https://cloud.google.com/compute/docs/instance-groups/creating-groups-of-managed-instances
+* Using VPC networks:  https://cloud.google.com/vpc/docs/using-vpc
+* Deployment manager fundamentals:  https://cloud.google.com/deployment-manager/docs/fundamentals
+
+6- Ensuring successful operation of a cloud solution
+* VM Images:  https://cloud.google.com/compute/docs/images
+* Creating, deleting, deprecating custom images:  https://cloud.google.com/compute/docs/images/create-delete-deprecate-private-images
+* Creating snapshots:  https://cloud.google.com/compute/docs/disks/create-snapshots
+* How App Engine instances are managed:  https://cloud.google.com/appengine/docs/standard/python/how-instances-are-managed
+* Object lifecycle management:  https://cloud.google.com/storage/docs/lifecycle
+* Expanding subnets:  https://cloud.google.com/vpc/docs/using-vpc#expand-subnet
+* Introduction to Alerting:  https://cloud.google.com/monitoring/alerts/
+* Managing alerting policies:  https://cloud.google.com/monitoring/alerts/using-alerting-ui
+
+
+7- Configuring access and security
+* Google Cloud IAM:  https://cloud.google.com/iam/docs/
+* Security and Identity Fundamentals Quest:  https://www.qwiklabs.com/quests/40
+* Cloud IAM Overview:  https://cloud.google.com/iam/docs/overview
+* Understanding IAM roles:  https://cloud.google.com/iam/docs/understanding-roles
+* Understanding Custom IAM roles:  https://cloud.google.com/iam/docs/understanding-custom-roles
+* Granting or changing access in IAM:  https://cloud.google.com/iam/docs/granting-changing-revoking-access
+* Understanding Service Accounts:  https://cloud.google.com/iam/docs/understanding-service-accounts
+* Service Accounts:  https://cloud.google.com/iam/docs/service-accounts
+* Cloud Audit Logging overview: https://cloud.google.com/logging/docs/audit/
+* Services that product Audit Logs:  https://cloud.google.com/logging/docs/audit/#services
